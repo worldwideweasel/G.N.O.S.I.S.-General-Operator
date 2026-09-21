@@ -9,6 +9,8 @@ The project was originally inspired by [Look Mum No Computer’s 2001 keyboard s
 
 The module has 8 touchpads that control two rows of CV outputs. Individual step outs can be switched between Trigger, Gate and Off. Inputs are: clock, direction, reset, zero and mode (wenn high, touchpads don’t trigger TGate, only pressure out) inputs. Outputs are: CVmerge (16 step combined CV output), CV1 (upper row), CV2 (lower row), Trigger Out, TGate (triggered by touchpads) and pressure Out.
 
+You can find a short demo on youtube: [G.N.O.S.I.S. – General Operator demo](https://youtu.be/8PTaAUhxWdE?si=QkVwg7gWPGAJ-cuZ)
+
 This is a fully open-source project. You can find the schematics, KiCad files, BOM, firmware and gerbers on GitHub.
 
 Copyright (C) 2026 Fred Roessler (fretze@posteo.de).
