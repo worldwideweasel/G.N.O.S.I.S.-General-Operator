@@ -1,0 +1,32 @@
+Reference;Value;Qty;Link;Footprint
+A1;Arduino_Nano_v2.x;1;https://www.christians-shop.de/de/mikrocontroller-boards/nano-v3-atmega328p-ch340-usb-c;Module:Arduino_Nano_WithMountingHoles
+C1,C2,C3,C4,C5,C6,C7,C8;4.7uF;8;~;Capacitor_THT:CP_Radial_D5.0mm_P2.00mm
+C9,C10,C11,C12,C13,C14,C15,C16,C17,C19,C20;100nF;11;~;Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm
+C18,C21,C22;10uF;3;~;Capacitor_THT:CP_Radial_D5.0mm_P2.00mm
+D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35;1N4148;35;https://www.reichelt.de/de/de/shop/produkt/schalt-diode_100_v_150_ma_do-35-1730;Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+FB1,FB2;Ferrit Bead (z. B. 10R);2;https://www.reichelt.de/de/de/shop/produkt/emv_ferrit-entstoerfilter_axial_90_ohm_100_mhz-105726;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+J1, J2, J3, J4, J5, J6 J7, J8 J9, J10, J11, J12, J13, J14, J15, J16, J17, J18, J19;AudioJack 3,5mm;19;https://www.3u-shop.de/p/3-5mm-monobuchse-10-stueck;AudioJacks:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
+J20;POWER Connector;1;https://www.reichelt.de/de/de/shop/produkt/stiftleiste_2x40-polig_vergoldet_2_54-235639;Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical
+J21;Conn_01x10_Socket;1;https://www.reichelt.de/de/de/shop/produkt/buchsenleiste_2_54mm_1x34_gerade-266681?nbc=1;Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical
+LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12;LED 3mm FlatTop;12;https://www.taydaelectronics.com/flat-top-red-led-3mm-diffuse-lens.html;LED_THT:LED_D3.0mm_FlatTop
+Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9;2N3904;9;https://www.reichelt.de/de/de/shop/produkt/bipolartransistor_npn_40v_0_2a_0_5w_to-92-2020;Package_TO_SOT_THT:TO-92_Inline
+Q10,Q11;BC547;2;https://www.reichelt.de/de/de/shop/produkt/bipolartransistor_npn_45v_0_1a_0_5w_to-92-5006;Package_TO_SOT_THT:TO-92_Inline
+R1,R2,R3,R4,R6,R7,R8,R9,R10,R12,R14,R16,R18,R20,R22,R24,R26,R27,R28,R29,R30,R31,R32,R33,R34,R36,R38,R39,R40,R41,R42,R43,R44,R68;1K;34;~;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R5;10M;1;~;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R11,R13,R15,R17,R19,R21,R23,R25,R35,R37,R47,R50,R53,R56,R59,R66,R67;10K;17;~;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R45,R48,R51,R54,R57;100K;5;~;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R46,R49,R52,R55,R58;1M;5;~;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R60,R61,R64,R65;1,5K;4;~;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R62, R63;470R;1;~;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+RV11, RV12, RV13, RV14, RV15, RV16, RV17, RV18, RV21, RV22, RV23, RV24, RV25, RV26, RV27, RV28;B100K;16;"https://www.taydaelectronics.com/100k-ohm-linear-dual-taper-potentiometer-round-shaft-pcb-9mm.html
+https://www.3u-shop.de/p/potentiometer-metallachse-6-35mm-basis-9mm-100-k-ohm-b-lin";Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles
+SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8;SPDT SubMini;8;https://www.taydaelectronics.com/sub-mini-toggle-switch-2m-series-spdt-on-off-on-pcb-pins.html;PCM_4ms_Switch:Switch_Toggle_SPDT_SubMini
+U1,U2,U3;TL074;3;https://www.reichelt.de/de/de/shop/produkt/operationsverstaerker_4-fach_dip-14-21557;Package_DIP:DIP-14_W7.62mm
+U4;L78L05_TO92;1;https://www.reichelt.de/de/de/shop/produkt/spannungsregler_fest_5_v_0_1_a_4_to-92-216616;Package_TO_SOT_THT:TO-92_Inline
+U5;CD4066;1;https://www.reichelt.de/de/de/shop/produkt/analog-schalter-ic_4-kanal_dil-14-3234;Package_DIP:DIP-14_W7.62mm
+U6;TL072;1;https://www.reichelt.de/de/de/shop/produkt/j-fet_operationsverstaerker_2-fach_16_v_s_4_mhz_dip-8-421944;Package_DIP:DIP-8_W7.62mm
+U7;MCP4725xxx-xCH;1;https://www.ebay.de/itm/334629150513;Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical
+U8;MPR121QR2;1;https://www.amazon.de/Youmile-Capacitive-Ber%C3%BChrungssensor-Entwicklungsboard-Stiftleiste/dp/B09PH3FS2N;Touch_Spirals:Breakout_MPR121
+
+Reference;Value;Qty;Link;Footprint
+J1;Conn_01x10_Pin;1;https://www.reichelt.de/de/de/shop/produkt/stiftleiste_36-polig_gewinkelt_vergold_-235643?nbc=1;Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Horizontal
