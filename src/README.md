@@ -8,18 +8,18 @@ The system is powered by an Arduino Nano, using an MPR121 capacitive touch contr
 
 ---
 
-## ⚠️ Revision 2 Notice & Status
+## ⚠️ Revision 2.1 Notice & Status
 
-**Current Status:** Untested (Revision 2)
+**Current Status:** Untested (Revision 2.1)
 
-The repository has been updated with **Revision 2 (Rev 2)** files. This version incorporates minor fixes for PCB layout and labeling errors identified during the build and testing of Revision 1 (Rev 1).
+The repository has been updated with **Revision 2.1 (Rev 2.1)** files. This version incorporates minor fixes for PCB layout and labeling errors identified during the build and testing of Revision 1 (Rev 1).
 
-### Rev 2 Changes & Fixes:
+### Rev 2.1 Changes & Fixes:
 - **Potentiometer Wiring:** Corrected the inverted pin mapping on Pin 1 and Pin 3 so potentiometers behave as expected.
 - **Schematic & Silkscreen Labels:** Corrected swapped component labels (R37/R38 and R45/R46) and added the missing label for R32 (1k).
 - **Silkscreen Cleanup:** Fixed cosmetic issued concerning labeling.
 
-> **Disclaimer:** While these changes are small functional and cosmetic corrections based on a fully working Rev 1 build, **this specific Rev 2 PCB has not been manufactured or tested by me yet**. Producing this revision right now is done at your own risk.
+> **Disclaimer:** While these changes are small functional and cosmetic corrections based on a fully working Rev 1 build, **this specific Rev 2.1 PCB has not been manufactured or tested by me yet**. Producing this revision right now is done at your own risk.
 
 ---
 
